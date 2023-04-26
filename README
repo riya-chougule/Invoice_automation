@@ -1,2 +1,0 @@
-This repository contains different python codes which are required to build the project recognition of an invoice.In this project,we can automatically fill up the information to the database present in the medical stores by just showing an invoice sample to the camera.The model will recognize the necessary information,and it will be updated to the existing database. 
- 
